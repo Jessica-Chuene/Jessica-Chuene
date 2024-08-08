@@ -1,5 +1,5 @@
 <h1 align="center">Hey, 🚀 I'm Jessica.</h1>
-<h3 align="center">I'm a student interested in Data Science, and Programming.</h3>
+<h3 align="center">I'm a student interested in building.</h3>
 
 
 
